@@ -63,7 +63,7 @@
       <code><a href="https://www.linkedin.com/in/ishanmakadia/" target="_blank"><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin"></a></code>
     </td>
     <td>
-      <code><a href="https://twitter.com/i5han3" target="_blank"><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter"></a></code>
+      <code><a href="https://twitter.com/IshanMakadia" target="_blank"><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter"></a></code>
     </td>
     <td>
       <code><a href="https://dev.to/i5han3" target="_blank"><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyxsvxCE2Zs5g1aB1CQ2YgzNCEXxp-sOmQ3i0TYIDbPV1Co55X7qcleN11pUqhUI2oWqc&usqp=CAU" alt="dev.to"></a></code>
